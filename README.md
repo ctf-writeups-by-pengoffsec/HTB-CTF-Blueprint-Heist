@@ -202,4 +202,3 @@ After chaining LFI, JWT manipulation, internal access bypass, and SQLi with file
 
 ---
 
-If you'd like this in a downloadable markdown file or want a template for your future write-ups, just let me know!
